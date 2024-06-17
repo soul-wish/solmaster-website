@@ -1,6 +1,6 @@
-# Welcome to **SolMaster**
+# Welcome to **SolMastery**
 
-**SolMaster** is an educational platform and app dedicated to facilitating seamless onboarding for newcomers and developers transitioning into the Solana ecosystem. With an innovative blend of immersive theoretical learning and interactive simulation, SolMaster provides users with a dynamic hands-on experience. Our advanced simulator enables users to practice coding, deploying smart contracts, and navigating real-world blockchain scenarios, empowering them to master Solana's technology with confidence. From foundational concepts to advanced development techniques, SolMaster offers a comprehensive learning journey tailored for every level of expertise.
+**SolMastery** is an educational platform and app dedicated to facilitating seamless onboarding for newcomers and developers transitioning into the Solana ecosystem. With an innovative blend of immersive theoretical learning and interactive simulation, SolMaster provides users with a dynamic hands-on experience. Our advanced simulator enables users to practice coding, deploying smart contracts, and navigating real-world blockchain scenarios, empowering them to master Solana's technology with confidence. From foundational concepts to advanced development techniques, SolMaster offers a comprehensive learning journey tailored for every level of expertise.
 
 ### Key Features:
 

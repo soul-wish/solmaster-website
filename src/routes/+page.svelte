@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-	<title>SolMaster - Your Gateway to the Solana Ecosystem</title>
+	<title>SolMastery - Your Gateway to the Solana Ecosystem</title>
 </svelte:head>
 
 <div
@@ -14,10 +14,10 @@
 	>
 		<div class="grow">
 			<div class="mb-2 text-center lg:text-left">
-				<img src="/logo.png" alt="SolMaster" class="inline-block w-[100px] lg:w-[178px]" />
+				<img src="/logo.png" alt="SolMastery" class="inline-block w-[100px] lg:w-[178px]" />
 			</div>
 			<h1 class="text-center font-ibm-plex-mono text-[60px] text-white lg:text-left lg:text-[80px]">
-				SolMaster
+				SolMastery
 			</h1>
 			<h3
 				class="mb-16 text-center font-ibm-plex-sans text-[30px] font-light text-[#FAFAFA] lg:text-left"
@@ -25,12 +25,12 @@
 				Your Gateway to the Solana Ecosystem
 			</h3>
 			<p class="max-w-[460px] font-ibm-plex-sans text-[30px] text-white">
-				<span class="font-bold text-[#12ECAB]">SolMaster</span> offers an educational bot and app that
+				<span class="font-bold text-[#12ECAB]">SolMastery</span> offers an educational bot and app that
 				provides comprehensive theory and practical guidance, including simulators, to ease the learning
 				curve.
 			</p>
 			<a
-				href="/SolMaster.pdf"
+				href="/SolMastery.pdf"
 				target="_blank"
 				class="mt-8 inline-block w-full rounded-full bg-[#12ECAB] px-20 py-4 text-center font-ibm-plex-sans text-[30px] font-medium text-[#050505] hover:bg-[#12FCAB] lg:w-auto"
 				>Start Now</a
@@ -39,7 +39,7 @@
 		<div class="">
 			<img
 				src="/phone.webp"
-				alt="SolMaster"
+				alt="SolMastery"
 				class="mx-auto mb-16 mt-16 block w-full max-w-[375px]"
 			/>
 		</div>
@@ -47,6 +47,6 @@
 	<footer
 		class="mx-auto my-4 w-full max-w-screen-xl px-6 text-center font-ibm-plex-sans text-xs text-white lg:text-base"
 	>
-		Copyright © 2024 SolMaster. All rights reserved.
+		Copyright © 2024 SolMastery. All rights reserved.
 	</footer>
 </div>
