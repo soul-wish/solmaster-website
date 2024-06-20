@@ -24,7 +24,7 @@
 			class="mx-auto mb-[65px] mt-[80px] flex w-full max-w-screen-xl flex-col flex-col-reverse items-center gap-[22px] px-8 pt-8 md:flex-row"
 		>
 			<div class="flex flex-col items-start gap-[20px]">
-				<h2 class="max-w-[750px] font-ibm-plex-sans text-[48px] font-bold text-[#FAFAFA]">
+				<h2 class="max-w-[750px] font-ibm-plex-sans text-[36px] md:text-[48px] font-bold text-[#FAFAFA]">
 					Easy to use application to dive into blockchain and Solana ecosystem
 				</h2>
 				<p class="max-w-[600px] font-ibm-plex-sans text-[18px] text-white">
