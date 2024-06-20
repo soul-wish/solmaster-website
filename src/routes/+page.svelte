@@ -21,7 +21,7 @@
 			<img src="/solana_logo.svg" alt="Solana" class="ml-auto hidden w-[183px] md:inline-block" />
 		</div>
 		<div
-			class="mx-auto mb-[65px] mt-[80px] flex w-full max-w-screen-xl flex-col flex-col-reverse items-center gap-[22px] px-8 pt-8 md:flex-row"
+			class="mx-auto mb-[65px] mt-[20px] flex w-full max-w-screen-xl flex-col flex-col-reverse items-center gap-[22px] px-8 pt-8 md:mt-[80px] md:flex-row"
 		>
 			<div class="flex flex-col items-start gap-[20px]">
 				<h2
@@ -38,7 +38,7 @@
 				<a
 					href="https://t.me/solmasterybot"
 					target="_blank"
-					class="mt-8 rounded-full bg-[#12ECAB] px-20 py-4 text-center font-ibm-plex-sans text-[24px] font-medium text-[#050505] shadow-[0_4px_59px_0_rgba(1,254,132,0.4)] hover:bg-[#12FCAB] sm:w-auto w-full"
+					class="mt-8 w-full rounded-full bg-[#12ECAB] px-20 py-4 text-center font-ibm-plex-sans text-[24px] font-medium text-[#050505] shadow-[0_4px_59px_0_rgba(1,254,132,0.4)] hover:bg-[#12FCAB] sm:w-auto"
 					>Start Now</a
 				>
 			</div>
@@ -183,7 +183,7 @@
 							src="/icon_5.svg"
 							alt="icon"
 							loading="lazy"
-							class="mb-[20px] h-[200px] w-[200px]"
+							class="h-[100px] w-[100px] md:mb-[20px] md:h-[200px] md:w-[200px]"
 						/>
 						<p class="text-center font-ibm-plex-sans text-[24px] font-bold text-[#fafafa]">
 							Experience interactive learning through our bot and app.
@@ -198,7 +198,7 @@
 							src="/icon_6.svg"
 							alt="icon"
 							loading="lazy"
-							class="mb-[20px] h-[200px] w-[200px]"
+							class="h-[100px] w-[100px] md:mb-[20px] md:h-[200px] md:w-[200px]"
 						/>
 						<p class="text-center font-ibm-plex-sans text-[24px] font-bold text-[#fafafa]">
 							Learn through text, illustrations and automated tasks that simplify complex concepts
@@ -213,7 +213,7 @@
 							src="/icon_7.svg"
 							alt="icon"
 							loading="lazy"
-							class="mb-[20px] h-[200px] w-[200px]"
+							class="h-[100px] w-[100px] md:mb-[20px] md:h-[200px] md:w-[200px]"
 						/>
 						<p class="text-center font-ibm-plex-sans text-[24px] font-bold text-[#fafafa]">
 							20 Practical Tasks for Reinforcement
@@ -324,7 +324,7 @@
 			</div>
 		</div>
 		<div
-			class="mx-auto mb-[75px] flex w-full max-w-screen-xl flex-col items-center gap-[35px] bg-[url('/logo_bg.svg')] bg-contain bg-center bg-no-repeat px-8 py-[69px]"
+			class="mx-auto mb-[75px] flex w-full max-w-screen-xl flex-col items-center gap-[35px] bg-[url('/logo_bg.svg')] bg-contain bg-center bg-no-repeat px-8 py-[25px] md:py-[69px]"
 		>
 			<img src="/solmastery.svg" alt="SolMastery" class="w-[295px]" loading="lazy" />
 			<h4 class="text-center font-ibm-plex-sans text-[28px] font-bold text-[#fff]">
