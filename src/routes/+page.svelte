@@ -38,7 +38,7 @@
 				<a
 					href="https://t.me/solmasterybot"
 					target="_blank"
-					class="mt-8 block rounded-full bg-[#12ECAB] px-20 py-4 text-center font-ibm-plex-sans text-[24px] font-medium text-[#050505] shadow-[0_4px_59px_0_rgba(1,254,132,0.4)] hover:bg-[#12FCAB] sm:inline-block"
+					class="mt-8 rounded-full bg-[#12ECAB] px-20 py-4 text-center font-ibm-plex-sans text-[24px] font-medium text-[#050505] shadow-[0_4px_59px_0_rgba(1,254,132,0.4)] hover:bg-[#12FCAB] sm:w-auto w-full"
 					>Start Now</a
 				>
 			</div>
