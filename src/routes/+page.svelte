@@ -5,6 +5,13 @@
 
 <svelte:head>
 	<title>SolMastery - Your Gateway to Blockchain and the Solana Ecosystem_</title>
+	<meta
+		name="description"
+		content="SolMastery offers an educational bot and app
+					that provides comprehensive theory and practical guidance, including simulators, to ease the
+					learning curve and help everyone to make the first steps and dive into blockchain fundamentals
+					and Solana ecosystem."
+	/>
 </svelte:head>
 
 <div
