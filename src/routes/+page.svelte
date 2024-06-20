@@ -24,7 +24,9 @@
 			class="mx-auto mb-[65px] mt-[80px] flex w-full max-w-screen-xl flex-col flex-col-reverse items-center gap-[22px] px-8 pt-8 md:flex-row"
 		>
 			<div class="flex flex-col items-start gap-[20px]">
-				<h2 class="max-w-[750px] font-ibm-plex-sans text-[36px] md:text-[48px] font-bold text-[#FAFAFA]">
+				<h2
+					class="max-w-[750px] font-ibm-plex-sans text-[36px] font-bold text-[#FAFAFA] md:text-[48px]"
+				>
 					Easy to use application to dive into blockchain and Solana ecosystem
 				</h2>
 				<p class="max-w-[600px] font-ibm-plex-sans text-[18px] text-white">
@@ -36,7 +38,7 @@
 				<a
 					href="https://t.me/solmasterybot"
 					target="_blank"
-					class="shadow-[0_4px_59px_0_rgba(1,254,132,0.4)] mt-8 inline-block rounded-full bg-[#12ECAB] px-20 py-4 text-center font-ibm-plex-sans text-[24px] font-medium text-[#050505] hover:bg-[#12FCAB]"
+					class="mt-8 block rounded-full bg-[#12ECAB] px-20 py-4 text-center font-ibm-plex-sans text-[24px] font-medium text-[#050505] shadow-[0_4px_59px_0_rgba(1,254,132,0.4)] hover:bg-[#12FCAB] sm:inline-block"
 					>Start Now</a
 				>
 			</div>
@@ -234,7 +236,7 @@
 			</p>
 			<div class="flex flex-wrap justify-center gap-[40px]">
 				<div
-					class="flex basis-full lg:basis-[calc(100%/2-40px)] xl:basis-[calc(100%/3-40px)] flex-col rounded-[30px] bg-[#fff]/10 px-[35px] py-[45px]"
+					class="flex basis-full flex-col rounded-[30px] bg-[#fff]/10 px-[35px] py-[45px] lg:basis-[calc(100%/2-40px)] xl:basis-[calc(100%/3-40px)]"
 				>
 					<p class="mb-[20px] font-ibm-plex-sans text-[18px] font-bold text-[#12ECAB]">MODULE 1</p>
 					<h5 class="mb-[15px] font-ibm-plex-sans text-[28px] font-bold text-[#fff]">Intro</h5>
@@ -248,7 +250,7 @@
 					</p>
 				</div>
 				<div
-					class="flex basis-full lg:basis-[calc(100%/2-40px)] xl:basis-[calc(100%/3-40px)] flex-col rounded-[30px] bg-[#fff]/10 px-[35px] py-[45px]"
+					class="flex basis-full flex-col rounded-[30px] bg-[#fff]/10 px-[35px] py-[45px] lg:basis-[calc(100%/2-40px)] xl:basis-[calc(100%/3-40px)]"
 				>
 					<p class="mb-[20px] font-ibm-plex-sans text-[18px] font-bold text-[#12ECAB]">MODULE 2</p>
 					<h5 class="mb-[15px] font-ibm-plex-sans text-[28px] font-bold text-[#fff]">
@@ -264,7 +266,7 @@
 					</p>
 				</div>
 				<div
-					class="flex basis-full lg:basis-[calc(100%/2-40px)] xl:basis-[calc(100%/3-40px)] flex-col rounded-[30px] bg-[#fff]/10 px-[35px] py-[45px]"
+					class="flex basis-full flex-col rounded-[30px] bg-[#fff]/10 px-[35px] py-[45px] lg:basis-[calc(100%/2-40px)] xl:basis-[calc(100%/3-40px)]"
 				>
 					<p class="mb-[20px] font-ibm-plex-sans text-[18px] font-bold text-[#12ECAB]">MODULE 3</p>
 					<h5 class="mb-[15px] font-ibm-plex-sans text-[28px] font-bold text-[#fff]">
@@ -280,7 +282,7 @@
 					</p>
 				</div>
 				<div
-					class="flex basis-full lg:basis-[calc(100%/2-40px)] xl:basis-[calc(100%/3-40px)] flex-col rounded-[30px] bg-[#fff]/10 px-[35px] py-[45px]"
+					class="flex basis-full flex-col rounded-[30px] bg-[#fff]/10 px-[35px] py-[45px] lg:basis-[calc(100%/2-40px)] xl:basis-[calc(100%/3-40px)]"
 				>
 					<p class="mb-[20px] font-ibm-plex-sans text-[18px] font-bold text-[#12ECAB]">MODULE 4</p>
 					<h5 class="mb-[15px] font-ibm-plex-sans text-[28px] font-bold text-[#fff]">Security</h5>
@@ -293,7 +295,7 @@
 					</p>
 				</div>
 				<div
-					class="flex basis-full lg:basis-[calc(100%/2-40px)] xl:basis-[calc(100%/3-40px)] flex-col rounded-[30px] bg-[#fff]/10 px-[35px] py-[45px]"
+					class="flex basis-full flex-col rounded-[30px] bg-[#fff]/10 px-[35px] py-[45px] lg:basis-[calc(100%/2-40px)] xl:basis-[calc(100%/3-40px)]"
 				>
 					<p class="mb-[20px] font-ibm-plex-sans text-[18px] font-bold text-[#12ECAB]">MODULE 5</p>
 					<h5 class="mb-[15px] font-ibm-plex-sans text-[28px] font-bold text-[#fff]">
@@ -307,7 +309,9 @@
 						resources, courses, and tutorials to deepen your understanding and skills.
 					</p>
 				</div>
-				<div class="flex basis-full lg:basis-[calc(100%/2-40px)] xl:basis-[calc(100%/3-40px)] flex-col rounded-[30px] px-[35px] py-[45px]">
+				<div
+					class="flex basis-full flex-col rounded-[30px] px-[35px] py-[45px] lg:basis-[calc(100%/2-40px)] xl:basis-[calc(100%/3-40px)]"
+				>
 					<p class="mb-[20px] font-ibm-plex-sans text-[18px] font-bold text-[#12ECAB]">
 						MORE TO COME...
 					</p>
@@ -329,7 +333,7 @@
 			<a
 				href="https://t.me/solmasterybot"
 				target="_blank"
-				class="shadow-[0_4px_59px_0_rgba(1,254,132,0.4)] inline-block rounded-full bg-[#12ECAB] px-20 py-4 text-center font-ibm-plex-sans text-[24px] font-medium text-[#050505] hover:bg-[#12FCAB]"
+				class="inline-block rounded-full bg-[#12ECAB] px-20 py-4 text-center font-ibm-plex-sans text-[24px] font-medium text-[#050505] shadow-[0_4px_59px_0_rgba(1,254,132,0.4)] hover:bg-[#12FCAB]"
 				>Start Now</a
 			>
 		</div>
